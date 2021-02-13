@@ -10,7 +10,7 @@
 
 ## Sobre o projeto que foi desenvolvido:
 
-O projeto foi ministrado pelo <a href="https://github.com/maykbrito">Diego fernandes</a>, CTO da <a href="http://rocketseat.com.br">Rocketseat</a> e foi inspirado pelo dia das crianças
+O projeto foi ministrado pelo <a href="https://github.com/diego3g">Diego fernandes</a>, CTO da <a href="http://rocketseat.com.br">Rocketseat</a> e foi inspirado pelo dia das crianças
 
 </br>
 
