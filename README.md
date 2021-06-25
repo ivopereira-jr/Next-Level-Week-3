@@ -8,67 +8,129 @@
 ------------------
 </br>
 
-## Sobre o projeto que foi desenvolvido:
+<h4 align="center">
+	🚧  Happy Finalizado 🚀🏁
+</h4>
+
+<p align="center">
+  <img alt="linguages" src="https://img.shields.io/github/languages/count/ivopereira-jr/Next-Level-Week-3">
+
+  <img alt="tamanho do repositorio" src="https://img.shields.io/github/repo-size/ivopereira-jr/Next-Level-Week-3">
+
+  <img alt="license" src="https://img.shields.io/github/license/ivopereira-jr/Next-Level-Week-3">
+</p>
+
+</br>
+
+Tabela de conteúdos
+=================
+<!-- vscode-markdown-toc -->
+* [Sobre o projeto](#Sobreoprojeto)
+* [Happy](#Happy)
+* [Tecnologias](#Tecnologias)
+	[Pré-requisitos](#Pr-requisitos)
+* [Como executar o projeto](#Comoexecutaroprojeto)
+* [Back-end](#Back-end)
+* [Web](#Web)
+* [Licença](#Licena)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
+</br>
+
+## <a name='Sobreoprojeto'></a> ℹ️ Sobre o projeto
 
 O projeto foi ministrado pelo <a href="https://github.com/diego3g">Diego fernandes</a>, CTO da <a href="http://rocketseat.com.br">Rocketseat</a> e foi inspirado pelo dia das crianças
 
 </br>
 
-## Happy
+## <a name='Happy'></a>Happy
 
 O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜
 </br></br>
 
 <img alt="home page happy" width="100%" src="images/Home.png">  
-</br></br>
-
-<img alt="mapa com marcações localizasão dos orfanatos" width="100%" src="images/map-app.gif">  
-</br></br>
-
-<img alt="cadastro do orfanato" width="100%" src="images/create.gif">  
-</br></br>
-
----
 
 </br>
- 
-## 🚀  <strong>Tecnologias utilizadas:</strong>
+</br>
 
-- Css
-- ReactJs
-- Node.Js
-- TypeScript
-  </br></br>
+## 🎬 Demo
 
-## 💻 Como Utilizar
+</br>
+
+
+<img alt="mapa com marcações localizasão dos orfanatos" width="100%" src="images/map-app.gif">  
+
+</br>
+</br>
+
+<img alt="cadastro do orfanato" width="100%" src="images/create.gif">  
+
+</br>
+</br>
+
+## <a name='Tecnologias'></a>🛠️ Tecnologias 
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [React](https://pt-br.reactjs.org/)
+- [Nodejs](https://nodejs.org/en/)
+
+</br>
+
+### <a name='Pr-requisitos'></a> Pré-requisitos
+
+Antes de começar você vai precisar ter o <a href="https://nodejs.org/en/">Nodejs</a> ou instalar ele caso não tenha e também o <a href="https://yarnpkg.com/">Yarn</a>,
+
+Iniciar o back-end antes de iniciar esse projeto.
+
+
+</br>
+
+## <a name='Comoexecutaroprojeto'></a> ⚙ Como executar o projeto
+
+</br>
+
+## <a name='Back-end'></a>Back-end
+
 
 ```bash
+# Instale as dependências
+$ yarn
 
-# clonar o repositório
-$ git clone https://github.com/ivopereira-jr/Next-Level-Week-3.git
-
-# instalar as dependências
-$ yarn install
-$ npm install
-
-# para iniciar
-web
-$ yarn start
-$ npm start
-
-back-end
+# Execute a aplicação
 $ yarn dev
 
-
-
-Obs. Você pode utlizar npm ou yarn eu utilizei o yarn
+# O servidor inciará na porta:3333 - http://localhost:3333
 ```
 
 </br>
+
+## <a name='Web'></a>Web
+
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/ivopereira-jr/Next-Level-Week-3.git
+
+# Instale as dependências
+$ yarn
+
+# Execute a aplicação
+$ yarn start
+
+# O servidor inciará na porta:3000 - acesse http://localhost:3000
+```
+
 </br>
 
-## 💬 Fale comigo
+## <a name='Licena'></a> 📝 Licença
 
-[_Entre em contato comigo_](https://www.linkedin.com/in/ivopereira-jr/)
+Este projeto esta sobe a [Licença MIT](./LICENSE).
 
-Obrigado por chegar até aqui!
+Feito com ❤ por Ivo Pereira ✌🏽 [Entre em contato ](https://www.linkedin.com/in/ivopereira-jr/)
